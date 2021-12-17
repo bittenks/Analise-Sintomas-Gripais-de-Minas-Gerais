@@ -19,7 +19,7 @@ O dataset apresentado trata sobre os sintomas gripais entre profissionais da sa�
 * Mostrando assim que o maior problema deste Dataset foi a implementacao de dados, sendo assim ficando visivel a falta de treinamento dos profissionais para a insercao de dados, complicando a analise, para ter dados mais concretos de quais as cidades e regioes mais afetedas
 
 ## 📝 Trabalhos Futuros
-Visualizacao de quais municipios teve a insercao de dados nulos, logo apos a informacao obtida, ser capaz de localizar quais municipios do estado de Minas Gerais foram mais irresponsaveis na insercao de dados. Contribuido para que exigisse mais atencao para estes municipios para que fosse feita a insercao correta.
+Visualizacao de quais cidades inseriram dados nulos após a obtenção das informações, para poder localizar quais cidades mineiras são mais irresponsáveis na hora de inserir os dados. Reportando assim a quem chamar mais atenção a esses municípios para uma inserção adequada.
  
 
 [⬆ Voltar ao topo](#nome-do-projeto)<br>
